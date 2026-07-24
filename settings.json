@@ -8,7 +8,7 @@
   "server": {
     "ip": "GrupoLimboMC.aternos.me",
     "port": 53405,
-    "version": "26.2",
+    "version": false,
     "try-creative": false
   },
   "position": {
