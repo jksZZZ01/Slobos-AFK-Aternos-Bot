@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GrupoLimboMC.aternos.me:53405",
+    "ip": "GrupoLimboMC.aternos.me",
     "port": 53405,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
